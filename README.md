@@ -43,4 +43,3 @@ Kurulum ve Çalıştırma:
    
 **Geliştirici:** Gülse Döven
 
-**Ders:** Veri Yapıları ve Algoritmalar
